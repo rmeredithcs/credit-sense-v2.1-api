@@ -3521,7 +3521,7 @@
             "schema": {
               "type": "string",
               "default": "application/json",
-              "deprecated": true
+              "deprecated": false
             },
             "in": "header",
             "name": "Content-Type",
