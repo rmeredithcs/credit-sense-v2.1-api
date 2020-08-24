@@ -3337,6 +3337,7 @@
     "/transferAppOwner": {
       "post": {
         "summary": "Grant access permissions for an app",
+        "deprecated": true,
         "operationId": "post-transferAppOwner",
         "responses": {
           "200": {
